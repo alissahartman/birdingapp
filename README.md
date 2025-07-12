@@ -27,7 +27,7 @@ This Streamlit app helps birders find nearby birding hotspots using the eBird AP
 
 ## Data Source
 
-eBird API: https://documenter.getpostman.com/view/664302/ebird-api-20/2HTbHW
+[eBird API](https://documenter.getpostman.com/view/664302/S1ENwy59)
 
 ---
 
